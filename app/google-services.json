@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "276078470080",
+    "project_id": "bdmuchik",
+    "storage_bucket": "bdmuchik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276078470080:android:f0e358d3846bb4268e5e25",
+        "android_client_info": {
+          "package_name": "com.example.muchikapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276078470080-qu08rf55tp8glrq9ert76a0dir81p4iu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.muchikapp",
+            "certificate_hash": "6e81db2ab62df6bb3060e4212bb7f52e3de91832"
+          }
+        },
+        {
+          "client_id": "276078470080-snk9884r5ukclgpk6g59jroup9ug5koi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTaHFZmH--IaE2qGPO2z0R77wSmux3ghQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276078470080-snk9884r5ukclgpk6g59jroup9ug5koi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
