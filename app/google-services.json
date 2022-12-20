@@ -7,18 +7,18 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:89457903762:android:b053f2a68196d941533e4b",
+        "mobilesdk_app_id": "1:89457903762:android:b6ae37aa483b1ac8533e4b",
         "android_client_info": {
           "package_name": "com.example.muchikapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "89457903762-2hb5g2i52nlnu95kvvs77pau4ilgk8kg.apps.googleusercontent.com",
+          "client_id": "89457903762-uuekv838crtlp3oqgs11o0f5a3mp5384.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.muchikapp",
-            "certificate_hash": "5da38c1d750922ba80ac4f81a6080431ffb95cb5"
+            "certificate_hash": "bc1fa2e24f0ea0b22902ebdbf482cc7b3a425deb"
           }
         },
         {
