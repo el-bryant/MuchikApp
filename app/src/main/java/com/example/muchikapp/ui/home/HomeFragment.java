@@ -47,6 +47,9 @@ public class HomeFragment extends Fragment {
         binding.btnMonsefu.setOnClickListener(v -> {
             getActivity().startActivity(new Intent(getActivity(), Rutas.class).putExtra("ruta", "Monsefu"));
         });
+        binding.btnChongoyape.setOnClickListener(v -> {
+            getActivity().startActivity(new Intent(getActivity(), Rutas.class).putExtra("ruta", "Chongoyape"));
+        });
 
 //        final TextView textView = binding.textHome;
 //        homeViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);

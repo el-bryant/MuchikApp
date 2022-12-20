@@ -101,4 +101,17 @@
         android:layout_marginHorizontal="50dp"
         android:layout_marginVertical="15dp" />
 
+    <Button
+        android:id="@+id/btnChongoyape"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Chongoyape"
+        android:textAllCaps="false"
+        android:fontFamily="@font/be_vietnam_semibold"
+        android:textSize="18sp"
+        android:textColor="@color/blanco"
+        android:background="@drawable/boton_rojo"
+        android:layout_marginHorizontal="50dp"
+        android:layout_marginVertical="15dp" />
+
 </LinearLayout>
