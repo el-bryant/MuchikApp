@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">MuchikApp</string>
-    <string name="btnEspanol">ESPAÑOL</string>
+    <string name="btnEspanol">Español</string>
     <string name="title_activity_principal">Principal</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -9,7 +9,27 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
-    <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_inicio">Inicio</string>
+    <string name="menu_promociones">Promociones</string>
+    <string name="menu_comentarios">Opiniones y comentarios</string>
+    <string name="menu_salir">Cerrar sesión</string>
+    <string name="title_activity_rutas">Rutas</string>
+
+    <string name="bienvenida1_titulo">¡DISFRUTA!</string>
+    <string name="bienvenida1_contenido1">Accede a\npromociones\ny descuentos.</string>
+    <string name="bienvenida1_contenido2">• HOSPEDAJE\n• RESTAURANTES\n• CENTROS\nTURÍSTICOS</string>
+    <string name="bienvenida2_titulo">SOMOS TU\nMEJOR GUÍA</string>
+    <string name="bienvenida2_contenido1">Podrás elegir el\ntransporte público\nmás cerca y\nllegar a tu\ndestino.</string>
+    <string name="bienvenida3_titulo">¡TE CUIDAMOS!</string>
+    <string name="bienvenida3_contenido1">Ante cualquier\nincidente, podrás\ncontactarte con\nlos principales\ncentros de\nemergencia.</string>
+    <string name="idioma_titulo">¡FALTA POCO!</string>
+    <string name="idioma_contenido1">Para descubrir lo</string>
+    <string name="idioma_contenido2">mejor de MUCHIKAPP</string>
+    <string name="idioma_contenido3">Yo prefiero en idioma:</string>
+    <string name="castellano">Español</string>
+    <string name="ingles">Inglés</string>
+    <string name="acceso_google">Ingresar con Google</string>
+    <string name="pregunta_salir">¿Está seguro que desea salir?</string>
+    <string name="si">Sí</string>
+    <string name="no">No</string>
 </resources>

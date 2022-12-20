@@ -1,41 +1,41 @@
 {
   "project_info": {
-    "project_number": "276078470080",
-    "project_id": "bdmuchik",
-    "storage_bucket": "bdmuchik.appspot.com"
+    "project_number": "89457903762",
+    "project_id": "muchikapp-c3c37",
+    "storage_bucket": "muchikapp-c3c37.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:276078470080:android:f0e358d3846bb4268e5e25",
+        "mobilesdk_app_id": "1:89457903762:android:b053f2a68196d941533e4b",
         "android_client_info": {
           "package_name": "com.example.muchikapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "276078470080-qu08rf55tp8glrq9ert76a0dir81p4iu.apps.googleusercontent.com",
+          "client_id": "89457903762-2hb5g2i52nlnu95kvvs77pau4ilgk8kg.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.muchikapp",
-            "certificate_hash": "6e81db2ab62df6bb3060e4212bb7f52e3de91832"
+            "certificate_hash": "5da38c1d750922ba80ac4f81a6080431ffb95cb5"
           }
         },
         {
-          "client_id": "276078470080-snk9884r5ukclgpk6g59jroup9ug5koi.apps.googleusercontent.com",
+          "client_id": "89457903762-m7hge6v60oet4faq43n52o8dke97lghl.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBTaHFZmH--IaE2qGPO2z0R77wSmux3ghQ"
+          "current_key": "AIzaSyD2jdRBBM6xnPSYN9jv2tvaK41TugbsMT0"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "276078470080-snk9884r5ukclgpk6g59jroup9ug5koi.apps.googleusercontent.com",
+              "client_id": "89457903762-m7hge6v60oet4faq43n52o8dke97lghl.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

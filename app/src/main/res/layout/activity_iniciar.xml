@@ -1,17 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Iniciar">
+    tools:context=".Iniciar" >
 
-    <com.google.android.gms.common.SignInButton
-        android:id="@+id/btnGoogle"
+    <ImageView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:layout_editor_absoluteX="-16dp"></com.google.android.gms.common.SignInButton>
+        android:layout_height="match_parent"
+        android:src="@drawable/fondo_rosa"
+        android:scaleType="centerCrop" />
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+    <LinearLayout
+        android:id="@+id/llayGoogle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@drawable/boton_rojo"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:padding="10dp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_google"
+            android:tint="@color/blanco" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/acceso_google"
+            android:fontFamily="@font/be_vietnam_semibold"
+            android:textSize="18sp"
+            android:textColor="@color/blanco"
+            android:layout_marginStart="15dp" />
+
+    </LinearLayout>
+
+</RelativeLayout>
